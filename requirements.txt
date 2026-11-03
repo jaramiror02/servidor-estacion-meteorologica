@@ -2,4 +2,4 @@ flask
 requests
 streamlit
 gunicorn
-
+plotly
