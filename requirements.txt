@@ -1,6 +1,5 @@
 flask
 requests
 streamlit
-streamlit-autorefresh
 gunicorn
 
